@@ -1,4 +1,3 @@
-nginx
 #支持私库
 xzxxn777/ddddocr:latest
 mzzsfy/auto-proxy-pool:latest
@@ -9,3 +8,12 @@ jejz/qinglong:debian-2.17.9
 whyour/qinglong:2.11.3
 6053537/portainer-ce
 anmour/bncr
+#支持指定架构
+--platform=linux/arm64 xzxxn777/ddddocr
+--platform=linux/arm64 mzzsfy/auto-proxy-pool
+--platform=linux/arm64 nolanhzy/pro
+--platform=linux/arm64 xhofe/alist
+--platform=linux/arm64 jejz/qinglong-arm
+--platform=linux/arm64 whyour/qinglong
+--platform=linux/arm64 6053537/portainer-ce
+--platform=linux/arm64 anmour/bncr
