@@ -3,3 +3,7 @@ mzzsfy/auto-proxy-pool:latest
 nolanhzy/pro:latest
 xhofe/alist:latest
 jejz/qinglong-arm:debian-2.17.9
+jejz/qinglong:debian-2.17.9
+whyour/qinglong:2.11.3
+6053537/portainer-ce
+anmour/bncr
