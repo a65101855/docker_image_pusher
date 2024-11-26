@@ -3,8 +3,8 @@ xzxxn777/ddddocr:latest
 mzzsfy/auto-proxy-pool:latest
 nolanhzy/pro:latest
 xhofe/alist:latest
-jejz/qinglong-arm:debian-2.17.9
-jejz/qinglong:debian-2.17.9
+jejz/qinglong:debian-2.17.11
+jejz/qinglong-arm:debian-2.17.11
 whyour/qinglong:2.11.3
 6053537/portainer-ce
 anmour/bncr
@@ -13,6 +13,5 @@ anmour/bncr
 --platform=linux/arm64 mzzsfy/auto-proxy-pool:latest
 --platform=linux/arm64 nolanhzy/pro:latest
 --platform=linux/arm64 xhofe/alist:latest
---platform=linux/arm64 jejz/qinglong-arm:debian-2.17.9
 --platform=linux/arm64 6053537/portainer-ce
 --platform=linux/arm64 anmour/bncr
